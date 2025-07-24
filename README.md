@@ -43,38 +43,38 @@ Antes de escolher uma linguagem ou um curso, faça estas perguntas a si mesmo:
 
 ## 🛣 Trilhas e guias disponíveis:
 
-- [Roadmap Dash](https://roadmap.sh/)  
+- [Roadmap Dash ( abra em uma nova aba)](https://roadmap.sh/)  
   → roadmap.sh é um esforço da comunidade para criar roteiros, guias e outros conteúdos educacionais para ajudar a orientar os desenvolvedores na escolha de um caminho e orientar seus aprendizados.
 
-- [Tech Guide - Alura](https://techguide.sh/)  
+- [Tech Guide - Alura ( abra em uma nova aba)](https://techguide.sh/)  
   → TechGuide ajuda na jornada de aprendizado. Um mapeamento das principais tecnologias demandadas pelo mercado.
 
 ---
 
 ## 🔗 Links úteis (aprendizado gratuito):
 
-- [Free Code Camp](https://www.freecodecamp.org/)  
+- [Free Code Camp ( abra em uma nova aba)](https://www.freecodecamp.org/)  
   → Web site para aprender programação de forma gratuita.
 
-- [Comunidade Ada Tech](https://sso.ada.tech/?redirect_uri=https%3A%2F%2Fcomunidade.ada.tech%2F)  
+- [Comunidade Ada Tech ( abra em uma nova aba)](https://sso.ada.tech/?redirect_uri=https%3A%2F%2Fcomunidade.ada.tech%2F)  
   → Plataforma e trilha gratuita para aprender programação.
 
 - [Bootcamps de Tecnologia DIO](https://www.dio.me/bootcamp)  
   → Ferramentas, comunidades e apoio para iniciantes.
 
-- [Curso em Vídeo](https://www.cursoemvideo.com/cursos/)  
+- [Curso em Vídeo ( abra em uma nova aba) ](https://www.cursoemvideo.com/cursos/)  
   → Aprenda programação com o mestre Gustavo Guanabara!.
 
-- [Code Cademy](https://www.codecademy.com/)  
+- [Code Cademy ( abra em uma nova aba)](https://www.codecademy.com/)  
   → Codecademy oferece uma variedade de cursos gratuitos, mas também possui um plano pago chamado Codecademy Pro.
 
-- [Fundação Bradesco](https://www.ev.org.br/areas-de-interesse/programacao)  
+- [Fundação Bradesco ( abra em uma nova aba)](https://www.ev.org.br/areas-de-interesse/programacao)  
   → A Fundação Bradesco ofece uma gama de cursos gratuitos de programação com certificado.
 
-- [CS50 -Introdução à Ciência da Computação](https://pll.harvard.edu/course/cs50-introduction-computer-science)
+- [CS50 -Introdução à Ciência da Computação ( abra em uma nova aba)](https://pll.harvard.edu/course/cs50-introduction-computer-science)
   → O CS50x, a introdução da Universidade de Harvard aos empreendimentos intelectuais da ciência da computação e à arte da programação para alunos de graduação e pós-graduação, com ou sem experiência prévia em programação.
  
-- [He4rtLabs - Série 4Noobs](https://github.com/he4rt/4noobs)  
+- [He4rtLabs - Série 4Noobs ( abra em uma nova aba) ](https://github.com/he4rt/4noobs)  
   → Repositório desenvolvidos pela He4rtLabs - Série 4Noobs para facilitar o estudos dos devs iniciantes!
 ---
 
